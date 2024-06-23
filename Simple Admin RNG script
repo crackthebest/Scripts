@@ -1,3 +1,3 @@
 while wait() do game:GetService("ReplicatedStorage").Events.Spin:InvokeServer(true)
-
+game:GetService("CoreGui")["Nost Hub V1"]:Destroy()
 end
